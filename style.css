@@ -90,12 +90,12 @@
 
 
 .ex-8-img{
-    transition: 5s;
+    transition: 2s;
 }
 
 .ex-8-img:hover{
     border-radius: 5%;
-    filter:grayscale(0.1) saturate(1);
+    filter:grayscale(0.9) saturate(1);
 }
 
 .ex-9-img {
